@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="8" time="248.98">
+<testcase classname="Adactin Hotel App Booking" name="Verifying Adactin Hotel App Booking with valid data" time="43.979">
+<system-out><![CDATA[Given User is on the Adactin Hotel App......................................passed
+When User should enter "Sivasankaran" and "Siva1983"........................passed
+And User should enter "Sydney", "Hotel Creek", "Standard", "1 - One", "22-08-2022", "23-08-2022", "1 - One" and "0 - None".passed
+And User should select Hotel................................................passed
+And User should enter the details "Sa", "E", "Chennai", "1617181918181900", "American Express", "January", "2022" and "111".passed
+Then User should verify booking successful..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Adactin Hotel App Booking" name="Verifying Adactin Hotel App Booking with valid data 2" time="31.258">
+<system-out><![CDATA[Given User is on the Adactin Hotel App......................................passed
+When User should enter "Sivasankaran" and "Siva1983"........................passed
+And User should enter "Melbourne", "Hotel Sunshine", "Double", "2 - Two", "23-08-2022", "24-08-2022", "2 - Two" and "1 - One".passed
+And User should select Hotel................................................passed
+And User should enter the details "Sh", "V", "Madurai", "1617181918181900", "VISA", "February", "2022" and "112".passed
+Then User should verify booking successful..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Adactin Hotel App Booking" name="Verifying Adactin Hotel App Booking with valid data 3" time="30.313">
+<system-out><![CDATA[Given User is on the Adactin Hotel App......................................passed
+When User should enter "Sivasankaran" and "Siva1983"........................passed
+And User should enter "Brisbane", "Hotel Hervey", "Deluxe", "3 - Three", "24-08-2022", "25-08-2022", "3 - Three" and "2 - Two".passed
+And User should select Hotel................................................passed
+And User should enter the details "Si", "M", "Coim", "1617181918181900", "Master Card", "March", "2022" and "113".passed
+Then User should verify booking successful..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Adactin Hotel App Booking" name="Verifying Adactin Hotel App Booking with valid data 4" time="28.997">
+<system-out><![CDATA[Given User is on the Adactin Hotel App......................................passed
+When User should enter "Sivasankaran" and "Siva1983"........................passed
+And User should enter "Adelaide", "Hotel Cornice", "Super Deluxe", "4 - Four", "25-08-2022", "26-08-2022", "4 - Four" and "3 - Three".passed
+And User should select Hotel................................................passed
+And User should enter the details "Th", "A", "Vadapalani", "1617181918181900", "Other", "April", "2022" and "114".passed
+Then User should verify booking successful..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Adactin Hotel App Booking" name="Verifying Adactin Hotel App Booking with valid data 5" time="26.931">
+<system-out><![CDATA[Given User is on the Adactin Hotel App......................................passed
+When User should enter "Sivasankaran" and "Siva1983"........................passed
+And User should enter "London", "Hotel Creek", "Standard", "5 - Five", "26-08-2022", "27-08-2022", "1 - One" and "4 - Four".passed
+And User should select Hotel................................................passed
+And User should enter the details "Pal", "I", "Palani", "1617181918181900", "American Express", "May", "2022" and "115".passed
+Then User should verify booking successful..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Adactin Hotel App Booking" name="Verifying Adactin Hotel App Booking with valid data 6" time="27.689">
+<system-out><![CDATA[Given User is on the Adactin Hotel App......................................passed
+When User should enter "Sivasankaran" and "Siva1983"........................passed
+And User should enter "New York", "Hotel Sunshine", "Double", "6 - Six", "27-08-2022", "28-08-2022", "2 - Two" and "0 - None".passed
+And User should select Hotel................................................passed
+And User should enter the details "Chan", "A", "Adyaar", "1617181918181900", "VISA", "June", "2022" and "116".passed
+Then User should verify booking successful..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Adactin Hotel App Booking" name="Verifying Adactin Hotel App Booking with valid data 7" time="27.904">
+<system-out><![CDATA[Given User is on the Adactin Hotel App......................................passed
+When User should enter "Sivasankaran" and "Siva1983"........................passed
+And User should enter "Los Angeles", "Hotel Hervey", "Deluxe", "7 - Seven", "28-08-2022", "29-08-2022", "3 - Three" and "1 - One".passed
+And User should select Hotel................................................passed
+And User should enter the details "Vij", "A", "Vadapalani", "1617181918181900", "Master Card", "July", "2022" and "117".passed
+Then User should verify booking successful..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Adactin Hotel App Booking" name="Verifying Adactin Hotel App Booking with valid data 8" time="30.787">
+<system-out><![CDATA[Given User is on the Adactin Hotel App......................................passed
+When User should enter "Sivasankaran" and "Siva1983"........................passed
+And User should enter "Paris", "Hotel Cornice", "Super Deluxe", "8 - Eight", "29-08-2022", "30-08-2022", "4 - Four" and "2 - Two".passed
+And User should select Hotel................................................passed
+And User should enter the details "Lat", "A", "Palani", "1617181918181900", "Other", "August", "2022" and "118".passed
+Then User should verify booking successful..................................passed
+]]></system-out>
+</testcase>
+</testsuite>
